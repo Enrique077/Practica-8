@@ -1,4 +1,8 @@
+/*Enrique Mena Hernández
+programa 1*/
+
 #include <stdio.h>
+
 int main()
 {
  int num, cont = 0;
