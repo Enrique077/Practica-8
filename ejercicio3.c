@@ -1,3 +1,5 @@
+/*Enrique Mena Hernández
+programa 3*/
 
 #include <stdio.h>
 
